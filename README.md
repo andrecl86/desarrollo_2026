@@ -1,37 +1,22 @@
-<<<<<<< HEAD
-# mi_proyecto_app
+# Conecta GAD - Taller Práctico Semana 9
 
-A new Flutter project.
+## 1. Descripción y Justificación Tecnológica
+* **Framework Seleccionado:** Flutter / Dart.
+* **Justificación:** Se eligió Flutter por su capacidad de desarrollo multiplataforma, la eficiencia de su motor gráfico y la velocidad que aporta la recarga en caliente (*Hot Reload*) para el ciclo de desarrollo del proyecto integrador.
+* **Backend:** Node.js con Express y conexión a Base de Datos Oracle.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 2. Versiones del Entorno
+* **Flutter SDK:** Versión 3.x
+* **Node.js:** Versión 24.18.0
+* **IDE:** Visual Studio Code
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 3. Pasos de Configuración y Ejecución
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# mi_proyecto_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> a0e4029b7ba8d775e1bcb60f9de18a19b9d3e91a
+1. Clonar el repositorio y abrir la carpeta en VS Code.
+2. Instalar dependencias del frontend:
+   ```bash
+   flutter pub get
