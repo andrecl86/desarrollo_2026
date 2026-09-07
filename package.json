@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@capacitor/preferences": "^8.0.1",
+    "pg": "^8.23.0",
+    "zod": "^4.4.3"
+  }
+}
